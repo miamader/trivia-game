@@ -1,0 +1,13 @@
+# Xcode
+#
+build/
+DerivedData/
+*.hmap
+*.ipa
+*.playground
+
+# User settings
+#
+xcuserdata/
+xcdebugger/
+project.xcworkspace/xcuserdata/
