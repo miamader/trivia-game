@@ -2,9 +2,9 @@
 
 Submitted by: **Mia Mader**
 
-**Trivia Game** is an app that ... [TODO] 
+**Trivia Game** is an app that allows the user to play a trivia game. They can type in the number of questions they wish to recieve, as well as select the category, difficulty, type of question (mutliple choice or true/false) and the time. After the user finishes answering all questions and presses 'submit', or the time limit runs out, they will be shown how many questions they got right. 
 
-Time spent: **3** hours spent in total
+Time spent: **4** hours spent in total
 
 ## Required Features
 
@@ -33,9 +33,13 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
-
-[Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
+<div>
+    <a href="https://www.loom.com/share/0d9f9b6a2c704e518f84d4722377f483">
+    </a>
+    <a href="https://www.loom.com/share/0d9f9b6a2c704e518f84d4722377f483">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/0d9f9b6a2c704e518f84d4722377f483-bf54179ae298e104-full-play.gif#t=0.1">
+    </a>
+  </div>
 
 ## Notes
 
